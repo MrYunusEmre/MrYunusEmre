@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<iframe src="https://giphy.com/embed/bi6RQ5x3tqoSI" width="480" height="349" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-cowboy-bebop-bi6RQ5x3tqoSI">via GIPHY</a></p>
+
 <!--
 **MrYunusEmre/MrYunusEmre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
